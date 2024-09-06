@@ -30,7 +30,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 ## Demo
 Puedes entrar a ver el demo en este vínculo: 
 
-https://dazzling-nightingale-01ce86.netlify.app
+https://jazmin22eb.github.io/portfolio/
 
 ## Tecnologías
 
