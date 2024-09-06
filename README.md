@@ -26,6 +26,12 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 ![Contacto](imagenes/captura5.png)
 
+
+## Demo
+Puedes entrar a ver el demo en este vínculo: 
+
+https://dazzling-nightingale-01ce86.netlify.app
+
 ## Tecnologías
 
 Esta página web fue creada con:
